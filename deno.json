@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "compile": "deno compile --unstable --allow-read --allow-write ./src/index.ts --output ./bin/gpm"
+  }
+}

@@ -1,0 +1,5 @@
+packages:
+  hoge: ~/test/hoge/package.yaml
+  fuga: http://example.com/package.yaml
+  baba:
+  keke:
