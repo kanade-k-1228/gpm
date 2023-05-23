@@ -11,7 +11,7 @@ await new Command()
 
   .command("init", "Initialize project.")
   .arguments("[template]")
-  .action((opt, ...args) => init())
+  .action(() => init())
 
   .command("update", "Update remote info.")
   .action(() => {})
